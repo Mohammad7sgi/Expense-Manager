@@ -1,0 +1,17 @@
+[
+    {
+        "amount": 100000,
+        "category": "food",
+        "date": "2026-08-01"
+    },
+    {
+        "amount": 200000,
+        "category": "gym",
+        "date": "2026-08-01"
+    },
+    {
+        "amount": 300000,
+        "category": "clothes",
+        "date": "2026-08-01"
+    }
+]
